@@ -1,0 +1,16 @@
+# Datos (se descargan aparte, ver README)
+data/*
+!data/.gitkeep
+
+# Jupyter / Python
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Editor / sistema
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
